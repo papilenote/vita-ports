@@ -7,7 +7,7 @@ No game data is included. You need your own copy of each game.
 | Game | Based on | Title ID | Version | Status |
 |---|---|---|---|---|
 | [DJMAX Ray](DJMAX%20Ray/) | iOS IPA 1.0.11 | `DJMR00001` | 1.0 | tested on PSVITA and Vita3K |
-| [Marvel vs. Capcom 2](Marvel%20VS%20Capcom%202/) | iOS IPA 1.00.00 | `MVSC00001` | v1.0 | ested on PSVITA and Vita3K  |
+| [Marvel vs. Capcom 2](Marvel%20VS%20Capcom%202/) | iOS IPA 1.00.00 | `MVSC00001` | v1.2 | ested on PSVITA and Vita3K  |
 | [Resident Evil Degeneration](Resident%20Evil%20Degeneration/) | Android APK 1.00.03 | `REDG00001` | 1.0 | tested on PSVITA and Vita3K |
 | [Resident Evil Mercenaries VS](Resident%20Evil%20Mercenaries%20VS/) | iOS IPA 1.10.10 | `REMV00001` | 0.1 | tested on PSVITA and Vita3K |
 | [Tap Sonic](Tap%20Sonic/) | Android APK 1.0.2 | `TPSN00001` | 1.0 | tested on PSVITA and Vita3K |

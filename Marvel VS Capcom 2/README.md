@@ -7,7 +7,7 @@ The port is a loader. It runs the game's own iOS ARM code natively on the Vita, 
 | | |
 |---|---|
 | Title ID | `MVSC00001` |
-| Version | 1.0 |
+| Version | 1.2 |
 | Status | Tested on a real PS Vita and in Vita3K |
 | Download | [`mvc2.vpk`](mvc2.vpk) |
 
