@@ -1,8 +1,21 @@
 Marvel VS Capcom 2 Vita changelog
 
+v1.2
+- Online versus VS MODE.
+- Setup menu at start (hold SELECT while the game starts to open it again).
+- Game speed option: iOS speed by default, or Normal, Turbo 1, Turbo 2 or the game's own choice.
+- Classic controls by default, L assist 1, R assist 2, L + R Variable Combination.
+- Widescreen.
+- Stage floors drawn with perspective (no more stretched floors).
+- Hyper combo backgrounds no longer look garbled.
+- Better performance on heavy stages and in loading screens.
+- Removed CAPCOM startup logo.
+- The D-pad now works in the Command List and Secret Factor.
+- Added new live area assets.
+
 v1.1
-- Added 60 fps
-- L + R: Hyper Combo
+- Added 60 fps.
+- L + R: Hyper Combo.
 
 v1.0
 - Initial release.
