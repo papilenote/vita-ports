@@ -7,11 +7,12 @@ No game data is included. You need your own copy of each game.
 | Game | Based on | Title ID | Version | Status |
 |---|---|---|---|---|
 | [DJMAX Ray](DJMAX%20Ray/) | iOS IPA 1.0.11 | `DJMR00001` | 1.0 | tested on PSVITA and Vita3K |
-| [Marvel vs. Capcom 2](Marvel%20VS%20Capcom%202/) | iOS IPA 1.00.00 | `MVSC00001` | v1.2 | ested on PSVITA and Vita3K  |
+| [Marvel vs. Capcom 2](Marvel%20VS%20Capcom%202/) | iOS IPA 1.00.00 | `MVSC00001` | 1.2 | tested on PSVITA and Vita3K |
 | [Resident Evil Degeneration](Resident%20Evil%20Degeneration/) | Android APK 1.00.03 | `REDG00001` | 1.0 | tested on PSVITA and Vita3K |
 | [Resident Evil Mercenaries VS](Resident%20Evil%20Mercenaries%20VS/) | iOS IPA 1.10.10 | `REMV00001` | 0.1 | tested on PSVITA and Vita3K |
 | [Tap Sonic](Tap%20Sonic/) | Android APK 1.0.2 | `TPSN00001` | 1.0 | tested on PSVITA and Vita3K |
 | [The House of the Dead 2](The%20House%20of%20the%20Dead%202/) | HOTD2RE 1.1 with the PC game data | `HOTD20001` | 1.0 | tested on PSVITA and Vita3K |
+| [The King of Fighters-A 2012](The%20King%20of%20Fighters-A%202012/) | Android APK 1.0.8 + OBB | `KOFA00001` | 1.0 | tested on PSVITA and Vita3K |
 | [Vita-ngage](Vita-ngage/) | N-Gage | `NGAG00001` | 0.2 | tested on PSVITA and Vita3K |
 
 ## Common requirements
