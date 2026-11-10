@@ -133,7 +133,7 @@ The log is off by default. For any problem, set `logs=1` in `ux0:data/kof2012/co
 - **Rinnegatamante**: vitaGL, vitaShaRK and ShaRKBR33D.
 - **bythos14**: kubridge.
 - **Sean Barrett**: stb_truetype.
-- **DF** and **zSamyMan**: testing and reporting issues.
+- **DF**: testing and reporting issues.
 - **The VitaSDK team.**
 
 ## Legal
