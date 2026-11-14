@@ -7,11 +7,11 @@ The port is a loader. It runs the game's own iOS ARM code natively on the Vita, 
 | | |
 |---|---|
 | Title ID | `SMPA00001` |
-| Version | 1.0 |
+| Version | 1.1 |
 | Status | Tested on a real PS Vita and on Vita3K |
 | Download | [`simpsons.vpk`](simpsons.vpk) |
 
-VPK SHA-256: `518e4d6a41f6a26fe99a95b3ee76fe8b60338aa84cef84f327158c4ff7e1a880`
+VPK SHA-256: `db4d0fea37215ac45eb0d4349de12c84f6b51ed3d776a4107c498b90ef33d34b`
 
 ## Requirements
 
@@ -48,14 +48,14 @@ The port patches the game code at fixed addresses, so only version 1.1.43 works.
 1. In Settings > HENkaku Settings, turn on **Enable unsafe homebrew**.
 2. Install kubridge and libshacccg.suprx (see Requirements) and reboot.
 3. Install `simpsons.vpk` with VitaShell.
-4. Create the folder `ux0:data/simpsons/`.
+4. Create the folder `ux0:data/thesimpsonsarcade/`.
 5. Copy your `.ipa` into that folder. Any file name that ends in `.ipa` works, for example:
 
    ```
-   ux0:data/simpsons/The Simpsons Arcade v1.1.43.ipa
+   ux0:data/thesimpsonsarcade/The Simpsons Arcade v1.1.43.ipa
    ```
 
-6. Start **The Simpsons Arcade** from the LiveArea. The first start unpacks the game into `ux0:data/simpsons/simpsons3_iphone_en.app`, then the port restarts by itself. After that you can delete the `.ipa`.
+6. Start **The Simpsons Arcade** from the LiveArea. The first start unpacks the game into `ux0:data/thesimpsonsarcade/simpsons3_iphone_en.app`, then the port restarts by itself. After that you can delete the `.ipa`.
 
 
 ## Known issues and limitations
@@ -65,7 +65,7 @@ The port patches the game code at fixed addresses, so only version 1.1.43 works.
 
 ## Troubleshooting
 
-For any problem, open an issue and attach `ux0:data/simpsons/log.txt`. It is written at every start and covers the last run, so copy it right after the problem happens.
+For any problem, open an issue and attach `ux0:data/thesimpsonsarcade/log.txt`. It is written at every start and covers the last run, so copy it right after the problem happens.
 
 ## Credits
 
