@@ -13,6 +13,7 @@ No game data is included. You need your own copy of each game.
 | [Tap Sonic](Tap%20Sonic/) | Android APK 1.0.2 | `TPSN00001` | 1.0 | tested on PSVITA and Vita3K |
 | [The House of the Dead 2](The%20House%20of%20the%20Dead%202/) | HOTD2RE 1.1 with the PC game data | `HOTD20001` | 1.0 | tested on PSVITA and Vita3K |
 | [The King of Fighters-A 2012](The%20King%20of%20Fighters-A%202012/) | Android APK 1.0.8 + OBB | `KOFA00001` | 1.0 | tested on PSVITA and Vita3K |
+| [The Simpsons Arcade](The%20Simpsons%20Arcade/) | iOS IPA 1.1.43 | `SMPA00001` | 1.0 | tested on PSVITA and Vita3K |
 | [Vita-ngage](Vita-ngage/) | N-Gage | `NGAG00001` | 0.2 | tested on PSVITA and Vita3K |
 
 ## Common requirements
